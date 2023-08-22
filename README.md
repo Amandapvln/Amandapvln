@@ -34,7 +34,8 @@ Almejo aplicar minha determinação e criatividade para contribuir, aprender e c
    <img align="center" alt="Trello" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
             
-          
+ ##
+
 
 <h3>Atualmente estou estudando:</h3>
  <div style="display: inline_block"><br>    
