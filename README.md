@@ -41,8 +41,9 @@ Almejo aplicar minha determinação e criatividade para contribuir, aprender e c
  <div style="display: inline_block"><br>    
   Mobile:
    <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />   
- </div>
+   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 
+ </div>
 
 ##
 
