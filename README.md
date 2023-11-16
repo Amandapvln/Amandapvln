@@ -1,55 +1,18 @@
-##  Olá, eu sou a Amanda Paiva Lino! :wave:
-Sou uma profissional apaixonada por tecnologia e criatividade, atualmente em transição para a empolgante área de Desenvolvimento de Software. Minha jornada profissional é marcada por uma sólida experiência em atendimento ao cliente, combinada com minha natureza detalhista e proativa. :purple_heart:
+##  Olá :wave:
 
-Minha trajetória profissional abrange diversas áreas, enriquecendo-me com habilidades valiosas. Iniciei como nutricionista, dedicando 4 anos ao atendimento ao cliente e excelência. Simultaneamente, explorei a pesquisa sobre HIV na graduação e pós-graduação, desenvolvendo minúcia e proatividade.
+Sou Amanda Lino, uma desenvolvedora de software apaixonada por tecnologia e inovação.
+<br>
+Meu objetivo é trabalhar em projetos que impactem positivamente a vida das pessoas, usando a tecnologia para resolver problemas do mundo real.
 
-Posteriormente, passei 2 anos no atendimento em um call center, aplicando comunicação e empatia. Contudo, senti a necessidade de unir minha paixão por tecnologia com minha bagagem. Hoje, ansiose desenvolver projetos inovadores na indústria de tecnologia, alinhando minha experiência única desde atendimento até pesquisa e comunicação.
+## 🔹Experiencia:
+Atualmente trabalho como desenvolvedora de software júnior autônoma, com 1 ano de experiência na área. Nesse período, desenvolvi projetos em diferentes tecnologias, incluindo Java, JavaScript, TypeScript, Angular, Flutter e Dart.
+<br><br>
+No meu último projeto, trabalhei em uma plataforma web para facilitar a vida do usuário com ferramentas de design, documentos e segurança. O projeto foi um sucesso e está sempre recebendo atualizações.
+<br><br>
+Também tenho uma paixão por desenvolvimento mobile. Atualmente, estou desenvolvendo um aplicativo educacional para crianças, com o objetivo de promover hábitos alimentares saudáveis. O aplicativo está sendo desenvolvido utilizando as tecnologias Flutter e Dart, e será disponibilizado gratuitamente.
+<br><br>
+Além das minhas atividades profissionais, tenho como hobby o aprimoramento artístico através de desenhos e pinturas em telas. Minha abordagem é distinta; meu objetivo é oferecer uma nova perspectiva sobre tecnologia, criatividade e autenticidade.
 
-Almejo aplicar minha determinação e criatividade para contribuir, aprender e crescer nesse campo empolgante.
-
-✨ Estou sempre em busca de desafios estimulantes e oportunidades para crescer como profissional. Se você está interessado em colaborar em projetos empolgantes ou conectar-se para trocar ideias, sinta-se à vontade para entrar em contato!
-##
-
-<h3>Tenho experiência com:</h3>
-
-<div style="display: inline_block"><br>    
- Backend:
-   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-   <img align="center" alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />        
-   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-
-<div style="display: inline_block"><br>    
- Frontend:
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
-
-<div style="display: inline_block"><br>    
- Metodologias Ágeis:
-   <img align="center" alt="Jira" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-   <img align="center" alt="Trello" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-</div>
-            
- ##
-
-
-<h3>Atualmente estou estudando:</h3>
- <div style="display: inline_block"><br>    
-  Mobile:
-   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />   
-   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
- </div>
- 
- <div style="display: inline_block"><br>    
-  Web:
-   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />         
- </div>
-          
 ##
 
 <div align="center">
@@ -57,29 +20,27 @@ Almejo aplicar minha determinação e criatividade para contribuir, aprender e c
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amandapvln&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandapvln&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+   
+## 🔹Tech Stack:
 
-##
+<div>   
+   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />        
+   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />   
+   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> 
+   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">    
+   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+   <img alt="Trello"  src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />        
+ </div>
 
-<h3 align="center">Meus contatos</h3>
- 
-<div align="center">
-<a href="https://www.instagram.com/amandalino.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+## 🔹Mídias Sociais
   <a href = "mailto:amanda-lol@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/amanda-paiva-lino-1bbb0189/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/Amaneko" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-</div>
 
-<br>
-
-##
-
-<h1 align="center">
-Open Source Project:
-<a href="https://mybigwhale.com" target="_blank"> My Big Whale </a>
-</h1>
-
-<br>
-  
-:star:Faço parte da turma de <strong><em>Análise e Desenvolvimento de Sistemas</em></strong> da Faculdade Descomplica <br>
-:star:Adoro games, tenho como hobby desenhos e pinturas em telas e também adoro tanto literatura quanto obras cinematográficas! <br>
-<h3 align="center"> :exclamation: Estou em busca de trabalho na área de desenvolvimento de software :exclamation: </h3>
