@@ -20,6 +20,8 @@ Além das minhas atividades profissionais, tenho como hobby o aprimoramento art�
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amandapvln&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandapvln&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+Estou sempre procurando novos desafios e oportunidades para aprender e crescer. Se você estiver interessado em trabalhar comigo, entre em contato.
    
 ## 🔹Tech Stack:
 
