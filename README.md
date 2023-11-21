@@ -17,8 +17,12 @@ Além das minhas atividades profissionais, tenho como hobby o aprimoramento art�
 
 <div align="center">
   <a href="https://github.com/Amandapvln">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amandapvln&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandapvln&layout=compact&langs_count=7&theme=dracula"/>
+   
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amandapvln&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amandapvln&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amandapvln&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amandapvln&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Amandapvln&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 </div>
 
 Estou sempre procurando novos desafios e oportunidades para aprender e crescer. Se você estiver interessado em trabalhar comigo, entre em contato.
