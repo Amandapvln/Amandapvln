@@ -1,82 +1,104 @@
-##  Olá :wave:
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=amandapvln&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-Sou Amanda Lino, uma engenheira de software apaixonada por tecnologia e inovação. Meu objetivo é trabalhar em projetos que impactem positivamente a vida das pessoas, usando a tecnologia para resolver problemas do mundo real. Meu objetivo é trabalhar em projetos que impactem positivamente a vida das pessoas, usando a tecnologia para resolver problemas do mundo real.
+### Olá, meu nome é Amanda!
 
-## 🔹Experiencia:
-Atualmente trabalho na Prodam SP, atuo na equipe GDO-1 que desenvolve e analisa o sistema do SIGA Saúde para a prefeitura do município de São Paulo. Nesse período, aprendi muitas tecnologias e ferramentas essenciais para o trabalho de DevOps.
+<img src="https://img.shields.io/static/v1?label=Overview&message=Amandapvln&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-No meu último projeto autônomo, trabalhei em uma plataforma web para facilitar a vida do usuário com ferramentas de design, documentos e segurança. O projeto foi um sucesso e está sempre recebendo atualizações.
+<p>Trabalho no Itaú Unibanco  <br/>   Atuo como Analista de Engenharia de TI - <i>Backend</i>
 
-Também tenho uma paixão por Cloud. Atualmente, estou estudando sobre Azure e em breve estarei certificada no Az-900.
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-paiva-lino/)](https://www.linkedin.com/in/amanda-paiva-lino/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mandekodev@gmail.com)](mailto:mandekodev@gmail.com) 
+[![GitHub](https://img.shields.io/github/followers/Amandapvln?label=follow&style=social)](https://github.com/Amandapvln)
 
-Além das minhas atividades profissionais, tenho como hobby o aprimoramento artístico através de desenhos e pinturas em telas. Minha abordagem é distinta; meu objetivo é oferecer uma nova perspectiva sobre tecnologia, criatividade e autenticidade.
-Estou sempre procurando novos desafios e oportunidades para aprender e crescer. Se você estiver interessado em trabalhar comigo, entre em contato.
+### ⚙️ GitHub Analytics
 
-## 🔹Entre em contato comigo!  <a href = "mailto:mandekodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a href="https://www.linkedin.com/in/amanda-paiva-lino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amandapvln&theme=onedark"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandapvln&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Amandapvln&theme=onedark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+       <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amandapvln&theme=onedark"
+        alt="Github Stats"
+      />
+            <br />
+    </td>
+    <td>
+      <img
+        align="center"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amandapvln&theme=onedark"
+        alt="Github Stats"
+      />
+            <br />
+    </td>
+  </tr>
+</table>
 
-##
+---
+<img align='right' 
+  src="https://github.com/Amandapvln/Portifolio-pessoal/blob/main/img/kawaii.gif" 
+  alt="Avatar gatinho piscando">
 
-<div align="center">
-  <a href="https://github.com/Amandapvln">
-   
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amandapvln&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amandapvln&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amandapvln&theme=nord_dark) |
-| :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amandapvln&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Amandapvln&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-</div>
-  
-## 🔹Tech Stack:
+### 🏆 Certification
 
-### Linguagens de Programação
-<div align="left">
-   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> 
-   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</div>
+[![AWS CLF-02](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/bf04efe3-a147-411d-89f4-2c900ddc9f8e/public_url)
+<br>
+<br>
 
-### Frameworks
-<div align="left">
-   <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />  
-   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-</div>
+### 💼 Experiência de trabalho
 
-### Banco de Dados
-<div align="left">
-   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+Na visão geral abaixo você encontrará minhas experiências de trabalho mais recentes:
+<br/>
 
-<div align="right">
-  <h3> Ferramentas de Desenvolvimento</h3>
-  <div>
-     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-     <img alt="IntelliJ IDEA"  src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  
-     <img alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
-     <br>
-    <img alt="Notepad++"  src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />  
-     <img alt="Postman"  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />  
-  </div>
-</div>
+[<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="https://raw.githubusercontent.com/Tgentil/Bancos-em-SVG/73d82e89efe74b80154053f560f50e16d981c351/Ita%C3%BA%20Unibanco%20S.A/logo-nova-letras-brancas.svg"/>](https://www.itau.com.br/)
 
-<div align="right"> 
-  <h3>Plataformas e Serviços</h3>
-  <div>
-     <img alt="Azure"  src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
-     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  </div>
-</div>
+**Analista de Engenharia de TI** \
+[**Itaú Unibanco**](https://www.itau.com.br/) • Contrato de estágio \
+Linguagens & Tecnologias: `Java`, `SpringBoot`, `Git`, `AWS`, `Kafka`, `Datamesh`, `SQL`, `DynamoDB`, `Aurora DB`, `Performance for All` `IntelliJ`, `VS Code`, `StackSpot AI`, `Insomnia`, `Kiali`, `DataDog`, `Grafana`, `Splunk` \
+Projetos em destaque: <i>Modernização, Flexibilidade e Completude do portal 360i para Recuperação de crédito PJ</i>
+<br/>
+<br/>
 
-<div align="right">
-  <h3> Ferramentas de Produtividade </h3>
-  <div>
-     <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-     <img alt="Trello"  src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />  
-     <img alt="Notion"  src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />  
-    <br>
-     <img alt="Markdown"  src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />  
-     <img alt="PowerShell"  src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />  
-  </div>
-</div>
+[<img align="left" height="94px" width="94px" alt="ProdamSP" src="https://avatars.githubusercontent.com/u/12613742?s=200&v=4"/>](https://portal.prodam.sp.gov.br/)
+
+**Analista de Sistemas** \
+[**Prodam SP**](https://portal.prodam.sp.gov.br/) • Contrato de estágio \
+Linguagens & Tecnologias: `SQL`, `AzureDevOps`, `Postman`, `Oracle SQL Developer`, `MS Teams` \
+<br>
+Projetos em destaque: <i>Sistema SIGA Saúde legado e modernização do Sistema SIGA Saúde</i>
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="MyBigWhale" src="https://avatars.githubusercontent.com/u/136833620?s=200&v=4"/>](https://github.com/ProjectBIGWHALE)
+
+**Desenvolvedora Fullstack** \
+[**My Big Whale**](https://github.com/ProjectBIGWHALE) • Open Source Project \
+Linguagens & Tecnologias: `Java`, `Javascript`, `HTML`, `CSS` , `Figma`, `Notion`, `Angular`, `Typescript`, `Trello`, `Jira`\
+<br>
+Projetos em destaque: <i>API para que desenvolvedores e usuários integrem facilmente funcionalidades de edição em seus projetos</i>
+<br/>
