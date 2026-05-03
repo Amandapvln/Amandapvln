@@ -80,7 +80,9 @@ Na visão geral abaixo você encontrará minhas experiências de trabalho mais r
 [<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="https://raw.githubusercontent.com/Tgentil/Bancos-em-SVG/73d82e89efe74b80154053f560f50e16d981c351/Ita%C3%BA%20Unibanco%20S.A/logo-nova-letras-brancas.svg"/>](https://www.itau.com.br/)
 
 **Analista de Engenharia de TI** \
-[**Itaú Unibanco**](https://www.itau.com.br/) • Contrato de estágio \
+[**Itaú Unibanco**](https://www.itau.com.br/) 
+• Júnior (Atualmente)
+• Contrato de estágio (18/04/2024 - 04/05/2026) \
 Linguagens & Tecnologias: `Java`, `SpringBoot`, `Git`, `AWS`, `Kafka`, `Datamesh`, `SQL`, `DynamoDB`, `Aurora DB`, `Performance for All` `IntelliJ`, `VS Code`, `StackSpot AI`, `Insomnia`, `Kiali`, `DataDog`, `Grafana`, `Splunk` \
 Projetos em destaque: <i>Modernização, Flexibilidade e Completude do portal 360i para Recuperação de crédito PJ</i>
 <br/>
