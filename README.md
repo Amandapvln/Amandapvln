@@ -66,10 +66,13 @@
 
 ### 🏆 Certification
 
-[![AWS CLF-02](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/bf04efe3-a147-411d-89f4-2c900ddc9f8e/public_url)
-[![SRE - Trained](https://images.credly.com/size/110x110/images/7c7fb461-8436-40ba-a25e-4df872095103/image.png)](https://www.credly.com/badges/e1bb1331-b0d9-4f59-b198-ff5d717d91cd/linked_in_profile)
+<a href="https://www.credly.com/badges/bf04efe3-a147-411d-89f4-2c900ddc9f8e/public_url">
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="110" height="110" />
+</a>
+<a href="https://www.credly.com/badges/e1bb1331-b0d9-4f59-b198-ff5d717d91cd/linked_in_profile">
+  <img src="https://images.credly.com/size/110x110/images/7c7fb461-8436-40ba-a25e-4df872095103/image.png" alt="SRE - Trained" width="110" height="110" />
+</a>
 
-<br>
 <br>
 
 ### 💼 Experiência de trabalho
